@@ -21,3 +21,5 @@ Background: You're tasked with designing a real-time news subscription service f
         
     Constraints:
           The system should be scalable to handle a growing number of subscribers without compromising performance.
+
+![UML Class Diagram](https://github.com/aubs7/observerPattern/assets/142388266/38d4ba5b-d644-442e-bdbf-c4d36e04d203)
